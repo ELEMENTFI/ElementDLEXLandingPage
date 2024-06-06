@@ -1,0 +1,47 @@
+.lending_puzzle_open {
+  top: -70px;
+  left: -45px;
+  opacity: 1;
+  transition: top 1.5s ease, left 1.5s ease, opacity 1s ease;
+}
+
+.amm_puzzle_open {
+  top: -35px;
+  left: 170px;
+  opacity: 1;
+  transition: top 1.5s ease, left 1.5s ease, opacity 1s ease;
+}
+
+.oracle_puzzle_close {
+  opacity: 0.5;
+  transition: top 1.5s ease, left 1.5s ease, opacity 1s ease;
+}
+
+.lending_puzzle_close {
+  top: -104px;
+  left: -27px;
+  opacity: 0.5;
+  transition: top 1.5s ease, left 1.5s ease, opacity 1s ease;
+}
+
+.amm_puzzle_close {
+  top: -73px;
+  left: 150px;
+  opacity: 0.5;
+  transition: top 1.5s ease, left 1.5s ease, opacity 1s ease;
+}
+
+.lending_result_disappears {
+  opacity: 0;
+  transition: opacity 2s ease;
+}
+
+.lending_result_appears {
+  opacity: 1;
+  transition: opacity 2s ease;
+}
+
+.oracle_puzzle_open {
+  opacity: 1;
+  transition: opacity 2s ease;
+}

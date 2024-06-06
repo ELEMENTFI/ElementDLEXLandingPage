@@ -1,0 +1,12 @@
+.footer-cover {
+  background-image: url("../../assets/images/footer_cover.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+}
+
+@media screen and (max-width: 1099px) {
+  .footer-cover {
+    background-image: none
+  }
+}
