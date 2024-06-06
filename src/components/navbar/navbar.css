@@ -1,0 +1,9 @@
+.headerOpen {
+  height: 280px;
+  transition: height 0.2s;
+}
+
+.headerClose {
+  height: 0px;
+  transition: height 0.2s;
+}

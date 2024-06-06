@@ -1,0 +1,10 @@
+.curved-section {
+  box-shadow: 0 5px 60px 10px rgba(140, 101, 219, 0.5);
+  border-radius: 80%/200px 200px;
+}
+
+@media (max-width: 500px) {
+  .curved-section {
+    border-radius: 0px;
+  }
+}
