@@ -11,19 +11,19 @@ const learnMore = [
     image: tokenomics_cover,
     title: "Tokenomics",
     description:
-      "For more information regarding Element DLEX tokenomics (including emissions, vesting), click here.",
+      "For more information regarding Element tokenomics (including emissions, vesting), click here.",
   },
   {
     image: docs_cover,
     title: "Docs",
     description:
-      "Our documents contain everything you need to know about Element DLEX, as well as some technical support.",
+      "Our documents contain everything you need to know about Element, as well as some technical support.",
   },
   {
     image: roadmap_cover,
     title: "Roadmap",
     description:
-      "For more information on progress, and to understand Element DLEX’s goals and vision, check out the roadmap.",
+      "For more information on progress, and to understand Element's goals and vision, check out the roadmap.",
   },
 ];
 

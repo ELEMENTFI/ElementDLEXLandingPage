@@ -4,27 +4,27 @@ const enhancedCapitalEfficiency = [
   {
     title: "Maximized Efficiency",
     description:
-      "Element DLEX's Dual Purpose Pools combine trading and lending in one pool, allowing assets to earn both trading and lending fees simultaneously.",
+      "Element's Dual Purpose Pools combine trading and lending in one pool, allowing assets to earn both trading and lending fees simultaneously.",
   },
   {
     title: "Fee Optimization",
     description:
-      "Element DLEX eliminates fee inefficiencies by offering full trading and lending fee benefits to liquidity providers in Dual Purpose Pools.",
+      "Element eliminates fee inefficiencies by offering full trading and lending fee benefits to liquidity providers in Dual Purpose Pools.",
   },
   {
     title: "Strong Incentives",
     description:
-      "By combining trading and lending functionalities, Element DLEX provides robust incentives for liquidity providers, enabling meaningful shorts of any asset.",
+      "By combining trading and lending functionalities, Element provides robust incentives for liquidity providers, enabling meaningful shorts of any asset.",
   },
   {
     title: "Asset Protection",
     description:
-      "Element DLEX addresses the risk of asset depletion by implementing mechanisms to handle asset exhaustion scenarios, ensuring liquidity is maintained.",
+      "Element addresses the risk of asset depletion by implementing mechanisms to handle asset exhaustion scenarios, ensuring liquidity is maintained.",
   },
   {
     title: "Risk Mitigation",
     description:
-      "Element DLEX introduces timelocks to prevent oracle manipulation and flash loan exploits, safeguarding the platform from price manipulation risks.",
+      "Element introduces timelocks to prevent oracle manipulation and flash loan exploits, safeguarding the platform from price manipulation risks.",
   },
 ];
 

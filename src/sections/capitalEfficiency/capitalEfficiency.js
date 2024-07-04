@@ -138,7 +138,7 @@ export const CapitalEfficiency = () => {
         </div>
         <div className="bg-themeGray-800 rounded-2xl bigTablet:pt-10 z-10">
           <p className="text-center text-xl tablet:text-2xl bigTablet:text-3xl font-bold">
-            <span className="text-gradient">Element DLEX</span> one year <br />{" "}
+            <span className="text-gradient">Element</span> one year <br />{" "}
             asset utilization
           </p>
           <div

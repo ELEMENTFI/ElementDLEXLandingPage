@@ -21,7 +21,7 @@ export const Sidebar = ({ isOpen, setIsOpen }) => {
       >
         <img src={logo} alt="logo" width={45} />
         <div>
-          <p className="font-bold text-3xl -rotate-90 mb-[120px]"> DLEX</p>
+          {/* <p className="font-bold text-3xl -rotate-90 mb-[120px]"> DLEX</p> */}
           <p className="font-bold text-3xl -rotate-90 mb-12">ELEMENT</p>
         </div>
       </div>

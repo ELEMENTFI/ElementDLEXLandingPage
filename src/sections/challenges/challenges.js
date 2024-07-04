@@ -49,7 +49,7 @@ export const Challenges = () => {
           <div className="mt-3 -pt-5 flex justify-center">
             <p className="text-center font-light text-sm desktop:text-base bigDesktop:text-xl px-3 tablet:px-0 w-full bigTablet:w-3/4">
               Current DLEX suffers from a complex user experience that limits
-              its accessibility. Here's how Element DLEX aims to change that:
+              its accessibility. Here's how Element aims to change that:
             </p>
           </div>
         </div>

@@ -19,7 +19,7 @@ export const Main = () => {
             <div className="flex flex-col gap-3 text-xl tablet:text-2xl bigTablet:text-3xl midDestop:text-4xl desktop:text-5xl bigDesktop:text-6xl text-center font-bold">
               <p>Making Defi Accessible</p>
               <p>
-                with <span className="text-gradient">Element DLEX</span>
+                with <span className="text-gradient">Element</span>
               </p>
             </div>
             <div className="z-20 h-80 mr-16 tablet:mr-12 flex justify-center">
@@ -29,7 +29,7 @@ export const Main = () => {
               <p className="text-center font-light text-xs bigTablet:text-base bigDesktop:text-xl px-3 tablet:px-0 w-full tablet:w-3/4 midDestop:w-3/5 desktop:w-2/5">
                 The first of its kind decentralized Lending Exchange (DLEX)
                 platform dedicated to optimizing capital efficiency. As a
-                pioneering and innovative solution, Element DLEX revolutionizes
+                pioneering and innovative solution, Element revolutionizes
                 lending and exchange by maximizing returns and minimizing risk
                 exposure.
               </p>
