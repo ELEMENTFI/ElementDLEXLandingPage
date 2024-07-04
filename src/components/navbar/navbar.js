@@ -50,7 +50,7 @@ const MobNavNar = ({ scrollY }) => {
         >
           <img src={twitter} alt="twitter" />
         </a>
-        <ThemeButton text={"Launch App"} />
+        <ThemeButton text={"Launch App"} /> {/*mobile*/}
       </div>
     </div>
   );

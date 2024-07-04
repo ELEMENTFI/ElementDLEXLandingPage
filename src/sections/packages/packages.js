@@ -66,7 +66,7 @@ const packages = [
   },
   {
     tag: "OUTSTANDING",
-    title: "Element DLEX",
+    title: "Element",
     image: logo,
     features: [
       {

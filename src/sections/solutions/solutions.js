@@ -50,13 +50,13 @@ const solutions = [
         image: database,
         title: "Oracle Independence",
         description:
-          "Element DLEX's unique design eliminates the need for oracles, enabling permissionless creation of lending markets for any two token pairings.",
+          "Element's unique design eliminates the need for oracles, enabling permissionless creation of lending markets for any two token pairings.",
       },
       {
         image: management,
         title: "Risk Management",
         description:
-          "By removing oracle reliance, Element DLEX allows users to short any token and earn yield on any asset, effectively hedging against unforeseen risks.",
+          "By removing oracle reliance, Element allows users to short any token and earn yield on any asset, effectively hedging against unforeseen risks.",
       },
     ],
   },

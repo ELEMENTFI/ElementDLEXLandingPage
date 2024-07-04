@@ -61,7 +61,7 @@ export const Footer = () => {
                   Twitter
                 </a>
                 <p className="text-themeGray-400 midDestop:w-96 midDestoptext-lg mt-2">
-                  Follow @ElementDLEX to get the latest news and updates from across
+                  Follow @ElementDeFi to get the latest news and updates from across
                   the ecosystem.
                 </p>
               </div>
@@ -78,14 +78,14 @@ export const Footer = () => {
                   Discord
                 </a>
                 <p className="text-themeGray-400 midDestop:w-96 midDestoptext-lg mt-2">
-                  Follow @ElementDLEX to get the updates from the team.
+                  Follow @ElementDeFi to get the updates from the team.
                 </p>
               </div>
             </div>
           </div>
         </div>
         <p className="text-center mt-12 mb-6 text-themeGray-200">
-          Copyright © 2024 Element DLEX
+          Copyright © 2024 Element
         </p>
       </div>
     </>
