@@ -1,6 +1,6 @@
 export const ThemeButton = ({ text }) => {
   const handleClick = () => {
-    let url = "https://element-dlex-app.vercel.app";
+    let url = "https://testnet.elementfi.io";
     window.open(url, '_blank');
   };
   return (
